@@ -1,0 +1,16 @@
+// See the pattern on https://sass-guidelin.es/#the-7-1-pattern
+
+// ABSTRACTS
+@import url(./abstracts/_variables.scss);
+@import url(./abstracts/_mixins.scss);
+
+// BASE
+@import url(./base/_reset.scss);
+@import url(./base/_typography.scss);
+
+// COMPONENTS
+@import url(./components/_buttons.scss);
+
+// PAGE
+
+// LAYOUT

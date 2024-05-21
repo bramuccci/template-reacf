@@ -1,0 +1,9 @@
+@use '../abstracts/variables' as *;
+
+.btn{
+    border: none;
+
+    &--cta{
+        background-color: $accent-color;
+    }
+}
